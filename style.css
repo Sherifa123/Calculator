@@ -1,0 +1,36 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+table {
+  margin: auto;
+}
+
+input {
+  border-radius: 21px;
+  border: 5px solid #000000;
+  font-size: 30px;
+  height: 50px;
+  width: 450px;
+}
+button {
+  border-radius: 15px;
+  font-size: 34px;
+  background: rgb(172, 133, 76);
+  width: 80px;
+  height: 70px;
+  margin: 5px;
+}
+.calculator {
+  border: 3px solid brown;
+  background-color: burlywood;
+  padding: 20px;
+  border-radius: 50px;
+  display: inline-block;
+}
+h1 {
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
